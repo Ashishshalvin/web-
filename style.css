@@ -1,0 +1,47 @@
+h1{color: black;
+    padding-left: 50px;
+}
+body{ background-color: azure;
+}
+
+
+.menu{
+   margin-right: 50px;
+   padding-top: 30px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+p,h3{
+text-align: center;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+
+.menu a {
+    margin-left: 30px;
+    
+}
+
+a:link{
+color: cadetblue;
+}
+
+a:visited{
+     color: cadetblue;
+}
